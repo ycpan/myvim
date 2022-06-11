@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/pan/.vim'
+let g:netrw_dirhist_1='/Users/pan/.vim/bundle/md-img-paste.vim/plugin'
+let g:netrw_dirhist_0='/Users/pan/.vim/bundle/md-img-paste.vim'
+let g:netrw_dirhist_9='/Users/pan/.vim/bundle'
+let g:netrw_dirhist_8='/Users/pan/.vim'
+let g:netrw_dirhist_7='/Users/pan/.vim/bundle'
+let g:netrw_dirhist_6='/Users/pan/.vim'
+let g:netrw_dirhist_5='/Users/pan/Project/gitbook'
+let g:netrw_dirhist_4='/Users/pan/Project/gitbook/algorighm_research/2-网页信息抽取/1-属性式抽取'
+let g:netrw_dirhist_3='/Users/pan/Project/gitbook/algorighm_research/2-网页信息抽取'
